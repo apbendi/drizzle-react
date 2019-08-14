@@ -26,7 +26,7 @@
     "prop-types": "^15.6.2",
     "react": "^16.4.2",
     "shallowequal": "^1.1.0",
-    "drizzle": "apbendi/drizzle#web3fix"
+    "drizzle": "1.4.0"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",

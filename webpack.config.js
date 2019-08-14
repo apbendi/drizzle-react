@@ -22,7 +22,6 @@ module.exports = {
     }]
   },
   externals: [
-    'drizzle',
     'prop-types',
     'react',
     'redux'
